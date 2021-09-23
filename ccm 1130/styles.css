@@ -1,0 +1,163 @@
+body {
+  background-color: #eee;
+}
+#container {
+  background-color: #ffffff;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2,
+h3 {
+  margin: 0;
+}
+#header {
+  background-color: #fecd33;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+#header h1 {
+  font-size: 34px;
+  font-family: Arial;
+}
+#header h3 {
+  font-size: 18px;
+  font-family: Arial;
+}
+#header h4 {
+  font-size: 13px;
+  font-family: Arial;
+}
+#header h2 {
+  font-size: 22px;
+  font-family: Arial;
+}
+#content p {
+  background-color: #ffffff;
+}
+
+#content p {
+  font-size: 14px;
+  font-family: Arial;
+}
+#globe {
+  background-color: #e6e7e9;
+}
+#globe p {
+  padding-top: 10px;
+  font-size: 14px;
+}
+#globe strong {
+  font-size: 15px;
+}
+#globe img {
+  padding: 10px;
+}
+
+.b1 {
+  list-style-image: url("blue_correct.png");
+  list-style-position: inside;
+}
+.b2 {
+  list-style-image: url("blue_wrong.png");
+  list-style-position: inside;
+}
+#globe p {
+}
+#obligations img {
+  padding: 10px;
+}
+#obligations {
+  background-color: #e6e7e9;
+}
+#obligations img {
+  width: 80px;
+  padding: 10px;
+}
+#obligations p {
+  padding-top: 10px;
+  font-size: 14px;
+}
+#obligations strong {
+  font-size: 15px;
+}
+#obligations ul {
+  padding-left: 120px;
+  font-size: 14px;
+}
+#pay {
+  background-color: #e6e7e9;
+}
+#pay img {
+  width: 80px;
+  padding: 10px;
+}
+#pay h3 {
+  font-size: 15px;
+}
+#pay ul {
+  padding-left: 120px;
+  font-size: 18px;
+}
+/*#pay {
+  background-color: #e6e7e9;
+}
+#pay img {
+  width: 80px;
+  padding: 10px;
+}
+
+#pay strong {
+  font-size: 15px;
+}
+#pay ul {
+  padding-left: 120px;
+  font-size: 14px;
+}*/
+#cover {
+  background-color: #e6e7e9;
+}
+#cover img {
+  width: 80px;
+  padding: 10px;
+}
+#cover p {
+  padding-top: 10px;
+  font-size: 14px;
+}
+#cover strong {
+  font-size: 15px;
+}
+#cover ul {
+  padding-left: 120px;
+  margin: 0;
+  padding-top: 0px;
+  font-size: 14px;
+}
+#contract {
+  background-color: #e6e7e9;
+}
+#contract img {
+  width: 80px;
+  padding: 10px;
+}
+#contract p {
+  padding-top: 10px;
+  font-size: 14px;
+}
+#contract strong {
+  font-size: 15px;
+}
+#footer {
+  background-color: #ffffff;
+}
+#footer p {
+  font-size: 11px;
+  padding-right: 10px;
+  padding-bottom: 2px;
+  font-family: Arial;
+}
